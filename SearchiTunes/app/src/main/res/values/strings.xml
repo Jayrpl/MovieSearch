@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search Films</string>
+    <string name="search">Search:</string>
+    <string name="search_hint">Enter a film title</string>
+    <string name="search_button">Search</string>
+    <string name="Back">Back</string>
+</resources>
